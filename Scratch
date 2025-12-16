@@ -1,0 +1,11 @@
+Webapp - Python
+- Connect to Letterbox 
+- Specify person & role from MOVIE
+- Search through your personal movie repo
+- Match the searched object to the metadata from your movie repo
+- Return the movies that the searched object is in from your repo if any.
+
+
+1. Connect to Letterbox
+  - RSSfeed?
+  - backup to manual csv import
