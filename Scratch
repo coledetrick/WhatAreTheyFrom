@@ -1,11 +1,15 @@
 Webapp - Python
 - Connect to Letterbox 
+- Connect to Tmdb API
 - Specify person & role from MOVIE
 - Search through your personal movie repo
 - Match the searched object to the metadata from your movie repo
 - Return the movies that the searched object is in from your repo if any.
 
 
-1. Connect to Letterbox
-  - RSSfeed?
-  - backup to manual csv import
+1. Connect to Letterbox 
+  - csv import
+
+2. Search box - Name -> role, how to handle repeat names?
+3. Query name against letterbox repo.
+4. return array of objects (movies). 
