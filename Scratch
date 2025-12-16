@@ -21,3 +21,8 @@ Implementation
 - Enrich letterbox data with TMDB data
 - FastAPI + a simple search through the data
 - Add a UI
+
+Techstack
+- FastAPI
+- JS
+- SQLchemy
