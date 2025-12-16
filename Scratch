@@ -13,3 +13,11 @@ Webapp - Python
 2. Search box - Name -> role, how to handle repeat names?
 3. Query name against letterbox repo.
 4. return array of objects (movies). 
+
+Implementation
+- Get letterbox data
+- Populate a DB from the letterbox CSV
+- CSV import script
+- Enrich letterbox data with TMDB data
+- FastAPI + a simple search through the data
+- Add a UI
